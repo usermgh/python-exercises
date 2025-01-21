@@ -48,4 +48,4 @@ x = Solution()
 result = x.threeSum([0,0,0])
 
 # Print the result
-print("\nFound Triplets:", result)
+print(result)
